@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">CSE 3rd year student exploring new fields!</h3>
+<h3 align="center">Final Year Computer Science Undergrad !!</h3>
 <img align="right" alt="Programmer" width="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi018&label=Profile%20views&color=0e75b6&style=flat" alt="aditi018" /> </p>
